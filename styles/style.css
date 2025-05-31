@@ -209,6 +209,15 @@ main>section {
     filter: grayscale(100%);
 }
 
+/* footer related style */
+.footer-container{
+    background-color:#FFF4E7 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 130px;
+}
+
 /* responsive media query */
 @media screen and (max-width: 576px) {
 
